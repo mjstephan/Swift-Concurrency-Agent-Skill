@@ -179,7 +179,7 @@ To test your changes locally:
 - [Agent Skills Home](https://agentskills.io/home) - Format overview
 - [Anthropic's Agent Skills Guide](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) - Official documentation
 - [Agent Skills Best Practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Writing effective skills
-- [Skill-Creator Skill](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - AI-assisted skill authoring
+- [skill-creator skill](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - AI-assisted skill authoring
 
 ### Swift Concurrency Resources
 - [Swift Concurrency Course](https://www.swiftconcurrencycourse.com) - Comprehensive course by the author
